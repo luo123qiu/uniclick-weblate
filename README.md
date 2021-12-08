@@ -1,0 +1,2 @@
+# uniclick-weblate
+Test weblate
